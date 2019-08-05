@@ -1,0 +1,21 @@
+{
+  "name": "chartjs-socket",
+  "version": "1.0.0",
+  "description": "Using of Chartjs and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chartjs",
+    "socket.io"
+  ],
+  "author": "Burak Sakallı",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.0.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  }
+}
